@@ -1,3 +1,3 @@
 # PythonProjects
 <br>
-Explore!(Arun!)
+Explore!(Arun)
